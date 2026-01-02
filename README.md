@@ -7,7 +7,7 @@
 - 🚀 New to GitHub and excited to start my journey here!
 
 ## 💻 Technical Skills
-- Languages: Golang, C and some Python
+- Languages: Java and some Python
 - Currently learning: Software Frameworks，web back-end building
 
 ## 🌱 Learning Journey
